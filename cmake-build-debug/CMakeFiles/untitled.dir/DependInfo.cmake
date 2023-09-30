@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/main.cpp" "/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.o"
   "/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/sem1.cpp" "/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/cmake-build-debug/CMakeFiles/untitled.dir/sem1.cpp.o"
+  "/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/sem2.cpp" "/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/cmake-build-debug/CMakeFiles/untitled.dir/sem2.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

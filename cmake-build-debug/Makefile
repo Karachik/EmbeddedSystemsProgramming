@@ -177,6 +177,33 @@ sem1.cpp.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/sem1.cpp.s
 .PHONY : sem1.cpp.s
 
+sem2.o: sem2.cpp.o
+
+.PHONY : sem2.o
+
+# target to build an object file
+sem2.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/sem2.cpp.o
+.PHONY : sem2.cpp.o
+
+sem2.i: sem2.cpp.i
+
+.PHONY : sem2.i
+
+# target to preprocess a source file
+sem2.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/sem2.cpp.i
+.PHONY : sem2.cpp.i
+
+sem2.s: sem2.cpp.s
+
+.PHONY : sem2.s
+
+# target to generate assembly for a file
+sem2.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/sem2.cpp.s
+.PHONY : sem2.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -192,6 +219,9 @@ help:
 	@echo "... sem1.o"
 	@echo "... sem1.i"
 	@echo "... sem1.s"
+	@echo "... sem2.o"
+	@echo "... sem2.i"
+	@echo "... sem2.s"
 .PHONY : help
 
 
