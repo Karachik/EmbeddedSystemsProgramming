@@ -25,6 +25,14 @@
 //    p = 23;
 //}
 
+//}
+
+//}z
+
+//}
+
+#include <stdio.h>
+
 //#include <stdio.h>
 //
 //int main() {
@@ -33,8 +41,6 @@
 //    scanf("%d%d", &a, &b);
 //    c = a + b;
 //    printf("Результат %d + %d = %d \n", a, b, c);
-//}
-
 //#include <stdio.h>
 //
 //int main() {
@@ -82,8 +88,6 @@
 //    z = 15 * p++;
 //
 //    z -= a;
-//}
-
 //#include <stdio.h>
 //
 //main() {
@@ -130,5 +134,4 @@
 //        default:
 //            printf("неизвестная буква");
 //    }
-//}
 

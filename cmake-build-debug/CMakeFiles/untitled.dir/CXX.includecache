@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/sem2.cpp
+iostream
+-
+stdio.h
+-
+time.h
+-
+algorithm
+-
+vector
+-
+stdlib.h
+-
+cmath
+-
+
