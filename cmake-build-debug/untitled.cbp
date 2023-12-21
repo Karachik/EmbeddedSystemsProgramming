@@ -80,16 +80,25 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/data_structures.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/lab5.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/main.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/sem1.cpp">
 			<Option target="untitled"/>
 		</Unit>
-		<Unit filename="/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/sem1.h">
+		<Unit filename="/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/sem12_12.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/sem2.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/sem30_10.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/CMakeLists.txt">

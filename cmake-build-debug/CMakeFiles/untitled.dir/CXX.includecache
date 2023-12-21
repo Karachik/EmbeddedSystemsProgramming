@@ -6,19 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/sem2.cpp
+/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/lab5.cpp
 iostream
 -
-stdio.h
--
-time.h
--
-algorithm
--
 vector
--
-stdlib.h
--
-cmath
 -
 

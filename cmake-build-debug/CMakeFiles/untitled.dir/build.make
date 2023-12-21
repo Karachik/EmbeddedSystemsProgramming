@@ -96,11 +96,67 @@ CMakeFiles/untitled.dir/sem2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/sem2.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/sem2.cpp -o CMakeFiles/untitled.dir/sem2.cpp.s
 
+CMakeFiles/untitled.dir/sem12_12.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/sem12_12.cpp.o: ../sem12_12.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled.dir/sem12_12.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/sem12_12.cpp.o -c /Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/sem12_12.cpp
+
+CMakeFiles/untitled.dir/sem12_12.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/sem12_12.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/sem12_12.cpp > CMakeFiles/untitled.dir/sem12_12.cpp.i
+
+CMakeFiles/untitled.dir/sem12_12.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/sem12_12.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/sem12_12.cpp -o CMakeFiles/untitled.dir/sem12_12.cpp.s
+
+CMakeFiles/untitled.dir/data_structures.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/data_structures.cpp.o: ../data_structures.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled.dir/data_structures.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/data_structures.cpp.o -c /Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/data_structures.cpp
+
+CMakeFiles/untitled.dir/data_structures.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/data_structures.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/data_structures.cpp > CMakeFiles/untitled.dir/data_structures.cpp.i
+
+CMakeFiles/untitled.dir/data_structures.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/data_structures.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/data_structures.cpp -o CMakeFiles/untitled.dir/data_structures.cpp.s
+
+CMakeFiles/untitled.dir/lab5.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/lab5.cpp.o: ../lab5.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/untitled.dir/lab5.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/lab5.cpp.o -c /Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/lab5.cpp
+
+CMakeFiles/untitled.dir/lab5.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/lab5.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/lab5.cpp > CMakeFiles/untitled.dir/lab5.cpp.i
+
+CMakeFiles/untitled.dir/lab5.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/lab5.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/lab5.cpp -o CMakeFiles/untitled.dir/lab5.cpp.s
+
+CMakeFiles/untitled.dir/sem30_10.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/sem30_10.cpp.o: ../sem30_10.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/untitled.dir/sem30_10.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/sem30_10.cpp.o -c /Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/sem30_10.cpp
+
+CMakeFiles/untitled.dir/sem30_10.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/sem30_10.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/sem30_10.cpp > CMakeFiles/untitled.dir/sem30_10.cpp.i
+
+CMakeFiles/untitled.dir/sem30_10.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/sem30_10.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/sem30_10.cpp -o CMakeFiles/untitled.dir/sem30_10.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/main.cpp.o" \
 "CMakeFiles/untitled.dir/sem1.cpp.o" \
-"CMakeFiles/untitled.dir/sem2.cpp.o"
+"CMakeFiles/untitled.dir/sem2.cpp.o" \
+"CMakeFiles/untitled.dir/sem12_12.cpp.o" \
+"CMakeFiles/untitled.dir/data_structures.cpp.o" \
+"CMakeFiles/untitled.dir/lab5.cpp.o" \
+"CMakeFiles/untitled.dir/sem30_10.cpp.o"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -108,9 +164,13 @@ untitled_EXTERNAL_OBJECTS =
 untitled: CMakeFiles/untitled.dir/main.cpp.o
 untitled: CMakeFiles/untitled.dir/sem1.cpp.o
 untitled: CMakeFiles/untitled.dir/sem2.cpp.o
+untitled: CMakeFiles/untitled.dir/sem12_12.cpp.o
+untitled: CMakeFiles/untitled.dir/data_structures.cpp.o
+untitled: CMakeFiles/untitled.dir/lab5.cpp.o
+untitled: CMakeFiles/untitled.dir/sem30_10.cpp.o
 untitled: CMakeFiles/untitled.dir/build.make
 untitled: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable untitled"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable untitled"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
