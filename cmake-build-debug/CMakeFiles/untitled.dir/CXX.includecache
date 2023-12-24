@@ -6,19 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/sem2.cpp
-iostream
--
+/Users/kiselevkirill/CLionProjects/EmbeddedSystemsProgramming/sem30_10.cpp
 stdio.h
--
-time.h
--
-algorithm
--
-vector
 -
 stdlib.h
 -
-cmath
+string.h
+-
+time.h
 -
 

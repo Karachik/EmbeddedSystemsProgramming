@@ -123,6 +123,60 @@ untitled/fast:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
 
+data_structures.o: data_structures.cpp.o
+
+.PHONY : data_structures.o
+
+# target to build an object file
+data_structures.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/data_structures.cpp.o
+.PHONY : data_structures.cpp.o
+
+data_structures.i: data_structures.cpp.i
+
+.PHONY : data_structures.i
+
+# target to preprocess a source file
+data_structures.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/data_structures.cpp.i
+.PHONY : data_structures.cpp.i
+
+data_structures.s: data_structures.cpp.s
+
+.PHONY : data_structures.s
+
+# target to generate assembly for a file
+data_structures.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/data_structures.cpp.s
+.PHONY : data_structures.cpp.s
+
+lab5.o: lab5.cpp.o
+
+.PHONY : lab5.o
+
+# target to build an object file
+lab5.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/lab5.cpp.o
+.PHONY : lab5.cpp.o
+
+lab5.i: lab5.cpp.i
+
+.PHONY : lab5.i
+
+# target to preprocess a source file
+lab5.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/lab5.cpp.i
+.PHONY : lab5.cpp.i
+
+lab5.s: lab5.cpp.s
+
+.PHONY : lab5.s
+
+# target to generate assembly for a file
+lab5.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/lab5.cpp.s
+.PHONY : lab5.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -177,6 +231,33 @@ sem1.cpp.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/sem1.cpp.s
 .PHONY : sem1.cpp.s
 
+sem12_12.o: sem12_12.cpp.o
+
+.PHONY : sem12_12.o
+
+# target to build an object file
+sem12_12.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/sem12_12.cpp.o
+.PHONY : sem12_12.cpp.o
+
+sem12_12.i: sem12_12.cpp.i
+
+.PHONY : sem12_12.i
+
+# target to preprocess a source file
+sem12_12.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/sem12_12.cpp.i
+.PHONY : sem12_12.cpp.i
+
+sem12_12.s: sem12_12.cpp.s
+
+.PHONY : sem12_12.s
+
+# target to generate assembly for a file
+sem12_12.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/sem12_12.cpp.s
+.PHONY : sem12_12.cpp.s
+
 sem2.o: sem2.cpp.o
 
 .PHONY : sem2.o
@@ -204,6 +285,33 @@ sem2.cpp.s:
 	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/sem2.cpp.s
 .PHONY : sem2.cpp.s
 
+sem30_10.o: sem30_10.cpp.o
+
+.PHONY : sem30_10.o
+
+# target to build an object file
+sem30_10.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/sem30_10.cpp.o
+.PHONY : sem30_10.cpp.o
+
+sem30_10.i: sem30_10.cpp.i
+
+.PHONY : sem30_10.i
+
+# target to preprocess a source file
+sem30_10.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/sem30_10.cpp.i
+.PHONY : sem30_10.cpp.i
+
+sem30_10.s: sem30_10.cpp.s
+
+.PHONY : sem30_10.s
+
+# target to generate assembly for a file
+sem30_10.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/sem30_10.cpp.s
+.PHONY : sem30_10.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -213,15 +321,27 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... untitled"
+	@echo "... data_structures.o"
+	@echo "... data_structures.i"
+	@echo "... data_structures.s"
+	@echo "... lab5.o"
+	@echo "... lab5.i"
+	@echo "... lab5.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
 	@echo "... sem1.o"
 	@echo "... sem1.i"
 	@echo "... sem1.s"
+	@echo "... sem12_12.o"
+	@echo "... sem12_12.i"
+	@echo "... sem12_12.s"
 	@echo "... sem2.o"
 	@echo "... sem2.i"
 	@echo "... sem2.s"
+	@echo "... sem30_10.o"
+	@echo "... sem30_10.i"
+	@echo "... sem30_10.s"
 .PHONY : help
 
 
