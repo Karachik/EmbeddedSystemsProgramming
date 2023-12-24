@@ -13,3 +13,5 @@ CMakeFiles/untitled.dir/sem12_12.cpp.o: ../sem12_12.cpp
 
 CMakeFiles/untitled.dir/sem2.cpp.o: ../sem2.cpp
 
+CMakeFiles/untitled.dir/sem30_10.cpp.o: ../sem30_10.cpp
+
