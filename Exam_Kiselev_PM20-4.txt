@@ -1,0 +1,48 @@
+// 2
+#include <iostream>
+#include <vector>
+#include <cmath>
+
+using namespace std;
+
+int findClosest(const vector<int>& arr) {
+    int sum = 0;
+    for (int num : arr) {
+        sum += num;
+    }
+    double average = sum / arr.size();
+    double minDiff = abs(average - arr[0]);
+    int closestNumber = arr[0];
+    for (int num : arr) {
+        double diff = abs(average - num);
+        if (diff < minDiff) {
+            minDiff = diff;
+            closestNumber = num;
+        }
+    }
+    return closestNumber;
+}
+
+int main() {
+    vector<int> numbers = {1, 2, 3, 4, 5};
+    int answer = findClosest(numbers);
+    cout << answer;
+}
+
+// 3
+#include <iostream>
+
+using namespace std;
+
+void printNumbers(int current, int n) {
+    if (current <= n) {
+        cout << current << ' ';
+        printNumbers(current + 1, n);
+    }
+}
+
+int main() {
+    int n;
+    cin >> n;
+    printNumbers(1, n);
+}
